@@ -2,5 +2,6 @@
 <note>
 <to> ANNETTE</to>
 <from> sam</from>
-<message> the message </message>
+<heading> this is my xml output</heading>
+<message> this is the message conttent </message>
 </note>
